@@ -1,0 +1,6 @@
+Keyboard
+Mouse
+Laptop
+Mobile
+Monitor
+Other_category

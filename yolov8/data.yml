@@ -1,0 +1,5 @@
+train: "/content/drive/MyDrive/Colab Notebooks/yolov8/e_waste_dataset/train"
+val: "/content/drive/MyDrive/Colab Notebooks/yolov8/e_waste_dataset/valid"
+
+nc: 6
+names: ["Keyboard", "Mouse", "Laptop", "Mobile", "Monitor", "Other_category"]
